@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Jihan Rizkyta Fitri</title>
+</head>
+<body>
+    <center><h1>CURRICULUM VITAE</h1></center>
+    <center><img src="C:\Users\ASUS\Downloads\DSC_2251 (1).jpg" alt="Jihan", width="200" /></center>
+    <h1>JIHAN RIZKYTA FITRI</h1>
+    <p style="color:grey;">+6283851785142 | jihanrizkyta301@gmail.com | <a href="www.linkedin.com/in/jihanrizkyta/" target="www.linkedin.com/in/jihanrizkyta/">www.linkedin.com/in/jihanrizkyta/</a></p>
+    <p>Jihan Rizkyta Fitri merupakan mahasiswa aktif Sarjana Sistem Informasi di Telkom University. Jihan tertarik pada UI/UX, desain jaringan, konsultasi bisnis, dan humas yang masih sejalan dengan jurusan Sistem Informasi. Saat ini Jihan tergabung dalam organisasi SEARCH dan beberapa komite di luar organisasi. Jihan memiliki pengalaman magang pada tahun 2021 dengan predikat A. Jihan merupakan sosok yang berdedikasi pada pekerjaan, menyukai tantangan, dan sistematis. Jihan fokus pada peningkatan pengetahuan organisasi dan mengejar prestasi untuk sasaran terdekat.</p>
+    <h2>BIODATA</h2>
+    <table>
+        <tr>
+          <td>Nama</td>
+          <td>: Jihan Rizkyta Fitri</td>
+        </tr>
+        <tr>
+          <td>Tempat, Tanggal Lahir</td>
+          <td>: Tulungagung, 20 November 2003</td>
+        </tr>
+        <tr>
+          <td>Jenis Kelamin</td>
+          <td>: Perempuan</td>
+        </tr>
+        <tr>
+          <td>Agama</td>
+          <td>: Islam</td>
+        </tr>
+        <tr>
+          <td>Alamat</td>
+          <td>: Desa Ngunut, Kec. Ngunut</td>
+        </tr>
+      </table>
+      <h2>HOBI</h2>
+      <ul>
+        <li>Menulis</li>
+        <li>Melukis</li>
+        <li>Menggambar</li>
+      </ul>
+      <h2>RIWAYAT PENDIDIKAN</h2>
+    <table border="1" width="50%" cellpadding="10" cellspacing="0">
+        <tfoot>
+          <tr>
+            <th>Pendidikan</th>
+            <th>Tahun</th>
+            <th>Kota</th>
+          </tr>
+          <tr>
+            <td>SMPN 1 Tulungagung</td>
+            <td>2016 - 2019</td>
+            <td>Tulungagung</td>
+          </tr>
+          <tr>
+            <td>SMK Telkom Malang</td>
+            <td>2019 - 2022</td>
+            <td>Malang</td>
+          </tr>
+          <tr>
+            <td>Telkom University</td>
+            <td>2022 - Sekarang</td>
+            <td>Bandung</td>
+          </tr>
+        </tfoot>
+      </table>
+</body>
+</html>
